@@ -1,1 +1,1 @@
-# panda-commerce-bootstrap
+#Simple Ecommerce
